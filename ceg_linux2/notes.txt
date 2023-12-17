@@ -1,0 +1,11 @@
+cmd for linux 
+
+cd folder_name 		to go inside folder
+ls		 	show fiiles 
+ls | head -5 		show 5 files created from first 
+ls -t | head -5		show 5 files created recent /created last
+
+ git token for Advance_C  ghp_ZEugDDV4Sh78OCLj0m7aGK1GgQxty18iz1V
+ 
+
+
